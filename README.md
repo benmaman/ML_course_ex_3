@@ -1,6 +1,6 @@
 # ML_course_ex_3
 
-The resprioty contains source code of two models
+The resprioty contains source code of two models<br>
 YOLOv5
 VGG19
 
